@@ -10,4 +10,7 @@
 ## Add Sonarqube stage
 - create a folder >>  sonar-project.properties
   add properties
-  - 
+  -  sonar.projectKey=GC-Bank
+  -  sonar.projectName=GC-Bank
+  -  sonar.java.binaries=.
+
